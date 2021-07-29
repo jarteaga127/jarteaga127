@@ -8,8 +8,8 @@ My LinkedIn: www.linkedin.com/in/joseph-arteaga-019a25191/
 Wantedly: www.wantedly.com/id/jarteaga127
 
 I can speak the following Languages:
-English - Native Level
-Japanese - JLPT N2
+- English - Native Level
+- Japanese - JLPT N2
 
 <!---
 jarteaga127/jarteaga127 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
